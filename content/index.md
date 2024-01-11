@@ -1,6 +1,9 @@
 ---
-title: Welcome to Quartz
+title: Mind Palace
+enableToc: false
+draft: false
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Mind Palace
+
+- [Sudoku](sudoku.md)
