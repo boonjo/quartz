@@ -1,9 +1,9 @@
 ---
-title: Mind Palace
+title: Reverie’s Reverie
 enableToc: false
 draft: false
 ---
 
-Mind Palace
+Reverie’s Reverie
 
 - [Sudoku](sudoku.md)
