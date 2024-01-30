@@ -1,9 +1,9 @@
 ---
-title: Reverie’s Reverie
+title: Home
 enableToc: false
 draft: false
 ---
 
-Reverie’s Reverie
+Home
 
 - [Sudoku](sudoku.md)
