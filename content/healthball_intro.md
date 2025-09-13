@@ -58,7 +58,7 @@ that this factor will not be accounted for my intial calculations, but this is s
 
 ## My Starboy...
 The origin of this project stems from my favorite player's injuries in recent seasons. At the time of writing, Bukayo Saka is sidelined again due to a hamstring injury where 
-he's already been out for 21 days. Last season, the 24/25 campaign, he sustained three different injuries to his thigh and hamstring. That was the first season he was out for a lengthy period. 
+he's already been out for 21 days. Last season, the 24/25 campaign, he sustained three different injuries to his thigh and hamstring[^5]. That was the first season he was out for a lengthy period. 
 Arsenal's offensive dependence on Saka had highlighted the importance starkly last season, and add to the fact that he is my favorite player at the moment, I wanted to understand the impact injuries
 have on players. 
 
@@ -68,3 +68,4 @@ So I thought it would be interesting to try and create an app that predicts inju
 [^2]: Dan Sheldon, The Athletic, [What is PSR and why do Premier League rules only allow clubs to lose £105m?](https://www.nytimes.com/athletic/5205988/2024/01/17/psr-premier-league-105m/)  
 [^3]: NBC Sports, [NBC SPORTS DELIVERS MOST-WATCHED PREMIER LEAGUE OPENING WEEKEND IN U.S., HEADLINED BY RECORD-SETTING MANCHESTER UNITED-ARSENAL MATCH ON NBC & PEACOCK](https://www.nbcsports.com/pressbox/press-releases/nbc-sports-delivers-most-watched-premier-league-opening-weekend-in-u-s-headlined-by-record-setting-manchester-united-arsenal-match-on-nbc-peacock)  
 [^4]: Hector Bellerín, YouTube, [Unseen Journey Documentary](https://www.youtube.com/playlist?list=PLFbRIHNpvdUGaTSG76hN3TFhTrP2STr1o)  
+[^5]: Transfermarkt, [Bukayo Saka Injury History](https://www.transfermarkt.us/bukayo-saka/verletzungen/spieler/433177)  
