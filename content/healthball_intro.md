@@ -2,15 +2,18 @@
 title: The Rise of Injuries in Soccer
 enableToc: true
 draft: false
+tags:
+    - healthball
+date: '2025-09-12' 
 ---
 
 The 24/25 season was plagued with injuries for Arsenal, ultimately leading to our 
-third consecutive 2nd place finish. We had  36 injury incidents accounting for 1,297 days. 
+third consecutive second place finish. We had 36 injury incidents accounting for 1,297 days. 
 This means Arsenal didn't have 6 to 7 first-team players available every game week, which is not sustainable
 for a team competing in the Premier League, Champions League, and domestic cup competitions.
 
-However, Arsenal weren't the only club that had to deal with injury problems, far from it. Injury time in the 
-Premier League has been growing since the 19/20 season, about an incrase of 20% according to Premier Injuries.
+However, Arsenal weren't the only club that had to deal with injury problems; far from it. Injury time in the 
+Premier League has been growing since the 19/20 season, about an increase of 20% according to Premier Injuries.
 
 The Premier League and other top European leagues have only increased player load with more games, not enough breaks due to 
 international tournaments for national teams, and the overall increase in speed and intensity of the modern game
@@ -18,7 +21,7 @@ have introduced injuries to players at a more frequent rate.
 
 This injury crisis has led me to wonder how I can measure a player's health based on their injury history. Although there is 
 limited data regarding injuries, I will attempt to document how I will try to contextualize player injuries and their future risk. 
-Introducing project Healthball!
+Introducing project **Healthball**!
 
 ---
 ## Why Injuries Matter
