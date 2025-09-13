@@ -2,6 +2,7 @@
 title: Sudoku
 enableToc: true
 draft: false
+date: '2024-01-11'
 ---
 
 I have been playing Sudoku lately and wanted to code a solver. At first, I thought it would be a little difficult because I considered it an NP-complete problem. But I quickly realized it only applies to a nxn board and not a standard 9x9 board. 
