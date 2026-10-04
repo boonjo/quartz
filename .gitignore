@@ -12,4 +12,4 @@ replit.nix
 .quartz/
 quartz/cli/tui/dist/
 .turbo/
-/content/_template
+content/_templates/
